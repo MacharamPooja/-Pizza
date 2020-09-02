@@ -218,9 +218,11 @@ body{
 		.topcontainer{
 		display: flex;
 		flex-direction:column;
-		width:100%;
+		width:96%;
+		
 		
 		border: 1px solid black;
+			
 		}
 		.a{
 			width:100%;
