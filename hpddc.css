@@ -11,7 +11,7 @@ body{
 			border: 1px solid black;
 		}
 		.a{
-			width:50%;
+			width:30%;
 		}
 		.a img{
 			width:50%;
@@ -226,7 +226,7 @@ body{
 			width:100%;
 		}
 		.a img{
-			width:100%;
+			width:50%;
 			height:125px;
 		}
 		.b{
