@@ -265,7 +265,12 @@ body{
 			width: 100%;
 			margin-left: 0%;
 		}
-		.footer,.footer1{
+		.footer{
+			position:relative;
+			height: 80px;
+		}
+		.footer1{
+			padding-top:1%;
 			position:relative;
 			height: 80px;
 		}
