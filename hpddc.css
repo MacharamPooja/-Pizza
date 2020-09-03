@@ -267,12 +267,12 @@ body{
 		}
 		.footer{
 			position:relative;
-			height: 80px;
+			height: 70px;
 		}
 		.footer1{
 			padding-top:1%;
 			position:relative;
-			height: 80px;
+			height: 70px;
 		}
 		.bottom li a{
 			padding: 14px 10.7px;
@@ -358,7 +358,7 @@ body{
 		margin-right: 25px;
 	}
 	.a1 input{
-		width:100%;
+		width:80%;
 		height: 35px;
 	}
 	button{
