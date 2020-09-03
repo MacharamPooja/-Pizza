@@ -218,7 +218,7 @@ body{
 		.topcontainer{
 		display: flex;
 		flex-direction:column;
-		width:96%;
+		width:100%;
 			
 		
 		
@@ -253,6 +253,7 @@ body{
 		}
 		.img2{
 			width: 100%;
+			margin-left:0%;
 			
 		}
 		.pm,.pm2,.pm3,.pm4{
